@@ -1,0 +1,58 @@
+[
+    {
+        "category": "Product Management",
+        "total_jobs": 1
+    },
+    {
+        "category": "Artificial Intelligence",
+        "total_jobs": 3
+    },
+    {
+        "category": "Marketing",
+        "total_jobs": 2
+    },
+    {
+        "category": "Software Development",
+        "total_jobs": 5
+    },
+    {
+        "category": "Sales",
+        "total_jobs": 1
+    },
+    {
+        "category": "Writing",
+        "total_jobs": 2
+    },
+    {
+        "category": "Devops",
+        "total_jobs": 1
+    },
+    {
+        "category": "{'name': 'General', 'slug': 'general'}",
+        "total_jobs": 13
+    },
+    {
+        "category": "{'name': 'Dental', 'slug': 'dental'}",
+        "total_jobs": 1
+    },
+    {
+        "category": "{'name': 'Writing', 'slug': 'writing'}",
+        "total_jobs": 1
+    },
+    {
+        "category": "{'name': 'Sales', 'slug': 'sales'}",
+        "total_jobs": 2
+    },
+    {
+        "category": "{'name': 'Marketing', 'slug': 'marketing'}",
+        "total_jobs": 1
+    },
+    {
+        "category": "{'name': 'Cyber Security', 'slug': 'cyber-security'}",
+        "total_jobs": 1
+    },
+    {
+        "category": "{'name': 'Product Management', 'slug': 'product-management'}",
+        "total_jobs": 1
+    }
+]
