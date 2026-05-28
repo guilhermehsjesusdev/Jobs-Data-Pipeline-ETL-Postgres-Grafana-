@@ -34,6 +34,8 @@ Thumbs.db
 # ENV FILES
 # =========================
 .env
+.env.*
+!.env.example
 
 # =========================
 # DATA LAKE (OPCIONAL)
